@@ -3,6 +3,8 @@
 #!/usr/bin/env python
 
 #Aron Ayub
+This repository contains detailed information of a full course i had bought on python coding, data science and machine learning.
+It contains detailed codes which can be oppened via a jupyter notebook.
 
 # coding: utf-8
 
